@@ -1,0 +1,14 @@
+{
+  "name": "derek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tailwindcss -i ./src/style.css -o ./public/style.css --watch"
+  },
+  "author": "Emmanuel",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
